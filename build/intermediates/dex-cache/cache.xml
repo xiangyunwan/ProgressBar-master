@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\github_src\ProgressBar-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="D:\github_src\ProgressBar-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_f62c204a2382b1b7d481ed794806deefcbc2e345.jar" />
+    </item>
+    <item
+        jar="D:\github_src\ProgressBar-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="D:\github_src\ProgressBar-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_27034bfe145fceecd8ed062e8627f14fbe38df40.jar" />
+    </item>
+    <item
+        jar="D:\github_src\ProgressBar-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="D:\github_src\ProgressBar-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_6983bf89b912257c90da7fe7966fc23c8c99fda6.jar" />
+    </item>
+    <item
+        jar="D:\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="D:\github_src\ProgressBar-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_47652cf3a01367c6856a258dde8f7d21d874ee77.jar" />
+    </item>
+    <item
+        jar="D:\github_src\ProgressBar-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="D:\github_src\ProgressBar-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_e2167731281c1e8175608997ede88111b5d53b9c.jar" />
+    </item>
+    <item
+        jar="D:\github_src\ProgressBar-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="D:\github_src\ProgressBar-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_c43148ce2f1ba1c78c2c192136d0be202fdcbcc0.jar" />
+    </item>
+
+</items>
